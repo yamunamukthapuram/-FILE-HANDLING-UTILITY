@@ -24,4 +24,4 @@ To run the program, save the file as FileOperations.java, open a terminal, navig
 
 # OUTPUT
 
-<img width="960" alt="Image" src="https://github.com/user-attachments/assets/ce0b9918-7d1f-4bc3-8202-7b49b65de87e" />
+<img width="483" alt="Image" src="https://github.com/user-attachments/assets/05152131-6480-4a0a-9152-321b5c3b4a98" />
