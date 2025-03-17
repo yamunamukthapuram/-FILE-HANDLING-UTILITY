@@ -20,7 +20,8 @@ The program consists of three primary methods: writeFile(), which stores user in
 
 The tools used in this project include the Java Development Kit (JDK) for compiling and running the code, the Scanner class for user input handling, and an IDE such as Eclipse, IntelliJ IDEA, Visual Studio Code, or NetBeans for development, though the program can also be executed using a terminal with the javac and java commands.
 
-To run the program, save the file as FileOperations.java, open a terminal, navigate to the directory containing the file, and compile it using javac FileOperations.java. Then, run the program using java FileOperations, follow the on-screen prompts, and observe how the file content is updated dynamically. This program is particularly useful for beginners learning file operations in Java and provides a foundation for more advanced file-handling implementations using actual files with FileWriter and BufferedReader.
+To run the program, save the file as FileOperations.java, open a terminal, navigate to the directory containing the file, and compile it using javac FileOperations.java. Then, run the program using java FileOperations, follow the on-screen prompts, and observe how the file content is updated dynamically. 
+
 
 # OUTPUT
 
